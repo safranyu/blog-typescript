@@ -5,26 +5,7 @@ TypeScript 具有类型系统，且是 JavaScript 的超集，TypeScript 在 201
 
 Vue3.0 将使用 TS 重写，重写后的 Vue3.0 将更好的支持 TS。2019 年 TypeScript 将会更加普及，能够熟练掌握 TS，并使用 TS 开发过项目，将更加成为前端开发者的优势。
 
-此项目是基于 Vue 全家桶 + TypeScript + Element-UI  的技术栈，且已经开源，github 地址 [blog-vue-typescript](https://github.com/safran/blog-vue-typescript) 。
-
-项目详情请猛戳该文章： [Vue + TypeScript + Element 搭建简洁时尚的博客网站及踩坑记](https://safran.cn/articleDetail?article_id=5c9d8ce5f181945ddd6b0ffc)
-
-
-## 效果
-
-效果图：
-
-- pc 端
-
-![](https://upload-images.jianshu.io/upload_images/12890819-9f5f1b384a27c6ff.gif?imageMogr2/auto-orient/strip)
-
-
-- 移动端
-
-![](https://upload-images.jianshu.io/upload_images/12890819-5370ed6dfbe61051.gif?imageMogr2/auto-orient/strip)
-
-
-完整效果请看：[https://safran.cn](https://safran.cn)
+此项目是基于 Vue 全家桶 + TypeScript + Element-UI  的技术栈，且已经开源，
 
 
 ## 功能
@@ -71,12 +52,12 @@ Vue3.0 将使用 TS 重写，重写后的 Vue3.0 将更好的支持 TS。2019 �
 
 ``` 
  # clone
-git clone https://github.com/safran/blog-vue-typescript.git
+git clone https://github.com/safran/blog-typescript.git
 ```
 
 ```
 # cd
-cd  blog-vue-typescript
+cd  blog-typescript
 ```
 
 ```
