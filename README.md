@@ -7,6 +7,16 @@ Vue3.0 将使用 TS 重写，重写后的 Vue3.0 将更好的支持 TS。2019 �
 
 此项目是基于 Vue 全家桶 + TypeScript + Element-UI  的技术栈，且已经开源，
 
+效果图：
+
+- pc 端
+
+![](https://upload-images.jianshu.io/upload_images/12890819-9f5f1b384a27c6ff.gif?imageMogr2/auto-orient/strip)
+
+
+- 移动端
+
+![](https://upload-images.jianshu.io/upload_images/12890819-5370ed6dfbe61051.gif?imageMogr2/auto-orient/strip)
 
 ## 功能
 
